@@ -1,0 +1,23 @@
+.newUpdate{
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    }
+.newUpdate .btn{
+    border-radius: 5px;
+    color:white;
+        padding:4px;
+        font-size:21px;
+        border:none;
+    height: 60px;
+    width: 224px;
+    background: #ff1616;
+    position: absolute;
+    /* top: 65%; */
+    left: 40%;
+    bottom: 17%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .newUpdate .btn:hover{
+        background-color: rgb(163, 216, 48);
+    }
